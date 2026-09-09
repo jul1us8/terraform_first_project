@@ -48,3 +48,9 @@ Azure resources
 Child module outputs
       ↓
 Root module outputs
+
+## Git workflow
+
+The project is managed using Git with branch-based workflow.
+
+Changes are developed in branches and merged into 'main' through Pull Requests.
